@@ -1,3 +1,3 @@
-FROM tomcat:10.1-jdk17-temurin
-COPY target/SessionDemo-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/ROOT.war
+FROM tomcat:11-jdk17-temurin
+COPY target/DownloadPageDemo-1.0-SNAPSHOT.war
 CMD ["catalina.sh", "run"]
