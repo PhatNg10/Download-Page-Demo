@@ -1,0 +1,6 @@
+murach\data\UserIO.class
+murach\download\DownloadServlet.class
+murach\util\CookieUtil.class
+murach\business\User.class
+com\mycompany\downloadpagedemo\JakartaRestConfiguration.class
+com\mycompany\downloadpagedemo\resources\JakartaEE11Resource.class

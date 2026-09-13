@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.5;
+    max-width: 600px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 12px;
+}
+
+input[type="email"],
+input[type="text"] {
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    margin-left: 100px;
+    padding: 6px 15px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    text-decoration: underline;
+}
